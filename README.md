@@ -1,4 +1,6 @@
-## Hi there 👋
+## Yarbis Beltré 🥥🌴
+
+Estudiante de desarrollo de software en el instituto tecnologico de las Americas desde el 2022 💻. Siempre me ha gustado la tecnología, saber más y poder crear cosas que no haya visto. Mis actividades favoritas son Tocar musica 🎵, Hacer ejercicio 🏋️‍♀️ y por supuesto, programar 👨‍💻.
 
 <!--
 **Yarbisbeme/Yarbisbeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
