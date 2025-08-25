@@ -36,12 +36,6 @@
 
 ---
 
-//## 🖼️ ¿Quién soy?
-
-//![Foto personal](https://avatars.githubusercontent.com/u/12345678?v=4) <!-- Cambia el enlace por tu propia foto de perfil real si es diferente -->
-
-//---
-
 ## 📫 ¡Conectemos!
 
 - [LinkedIn](https://www.linkedin.com/in/tuusuario/) <!-- Actualiza el enlace por el tuyo -->
