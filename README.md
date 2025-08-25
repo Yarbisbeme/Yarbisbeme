@@ -36,11 +36,11 @@
 
 ---
 
-## 🖼️ ¿Quién soy?
+//## 🖼️ ¿Quién soy?
 
-![Foto personal](https://avatars.githubusercontent.com/u/12345678?v=4) <!-- Cambia el enlace por tu propia foto de perfil real si es diferente -->
+//![Foto personal](https://avatars.githubusercontent.com/u/12345678?v=4) <!-- Cambia el enlace por tu propia foto de perfil real si es diferente -->
 
----
+//---
 
 ## 📫 ¡Conectemos!
 
