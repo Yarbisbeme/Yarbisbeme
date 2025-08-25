@@ -1,18 +1,52 @@
-## Yarbis Beltré 🥥🌴
+![Banner de tecnología](https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=1200&q=80)
 
-Estudiante de desarrollo de software en el instituto tecnologico de las Americas desde el 2022 💻. Siempre me ha gustado la tecnología, saber más y poder crear cosas que no haya visto. Mis actividades favoritas son Tocar musica 🎵, Hacer ejercicio 🏋️‍♀️ y por supuesto, programar 👨‍💻.
+# 👋 ¡Hola! Soy Yarbis Beme
 
-<!--
-**Yarbisbeme/Yarbisbeme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Desarrollador Fullstack Jr.
 
-Here are some ideas to get you started:
+### Lenguajes y Tecnologías
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+
+#### Frameworks y Herramientas
+
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![Astro.js](https://img.shields.io/badge/Astro.js-2D2D2D?style=for-the-badge&logo=astro&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
+
+## 💼 Experiencia
+
+- Actualmente Analista QA Jr.  
+- 6 meses de experiencia profesional en la empresa actual  
+- 📚 Estudiante de Desarrollo de Software en ITLA
+
+---
+
+## 🧑‍💻 Sobre mí
+
+✨ Me apasiona terminar lo que empiezo, buscando siempre la forma más ordenada y eficiente.  
+🔍 Siempre estoy en búsqueda de mejores prácticas, tanto en programación como en mi vida diaria.  
+🎯 Soy curioso, proactivo y me gusta aprender cosas nuevas.
+
+---
+
+## 🖼️ ¿Quién soy?
+
+![Foto personal](https://avatars.githubusercontent.com/u/12345678?v=4) <!-- Cambia el enlace por tu propia foto de perfil real si es diferente -->
+
+---
+
+## 📫 ¡Conectemos!
+
+- [LinkedIn](https://www.linkedin.com/in/tuusuario/) <!-- Actualiza el enlace por el tuyo -->
+- [GitHub](https://github.com/Yarbisbeme)
+
+---
+
+> “La organización y la constancia son mi sello personal para lograr resultados de calidad.” 🌟
