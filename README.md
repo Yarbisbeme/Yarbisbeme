@@ -38,7 +38,7 @@
 
 ## 📫 ¡Conectemos!
 
-- [LinkedIn](https://www.linkedin.com/in/tuusuario/) <!-- Actualiza el enlace por el tuyo -->
+- [LinkedIn]([https://www.linkedin.com/in/tuusuario/](https://www.linkedin.com/in/yarbis-beltre-mercedes-551a45321/)) <!-- Actualiza el enlace por el tuyo -->
 - [GitHub](https://github.com/Yarbisbeme)
 
 ---
