@@ -22,8 +22,8 @@
 
 ## 💼 Experiencia
 
-- Actualmente Analista QA Jr.  
-- 6 meses de experiencia profesional en la empresa actual  
+- Analista QA Jr.  
+- 6 meses de experiencia profesional
 - 📚 Estudiante de Desarrollo de Software en ITLA
 
 ---
