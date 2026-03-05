@@ -50,7 +50,8 @@
 
 ## 💼 Experiencia y Formación
 
-- 👨‍💻 **Analista QA Jr.** (Experiencia profesional activa)
+- 👨‍💻 **Analista QA Jr.**
+- 👨‍💻 **HelpDesk** (Experiencia profesional activa)
 - 📚 **Estudiante de Desarrollo de Software** — Instituto Tecnológico de Las Américas (ITLA)
 
 ---
